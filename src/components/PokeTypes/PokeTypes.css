@@ -1,0 +1,256 @@
+.poison {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  background-color: #935292;
+  border: 1px solid #682a68;
+}
+.bug {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+
+  border: 1px solid #44685e;
+  background-color: #a3b221;
+}
+.dark {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  border: 1px solid #44685e;
+  background-color: #39251a;
+}
+.dragon {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  border: 1px solid #44685e;
+  background-color: #7967d7;
+}
+.electric {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  border: 1px solid #44685e;
+  background-color: #f1ba21;
+}
+.fighting {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  border: 1px solid #44685e;
+  background-color: #88381f;
+}
+.fire {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  border: 1px solid #44685e;
+  background-color: #e74713;
+}
+.flying {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  border: 1px solid #44685e;
+  background-color: #9aaff2;
+}
+.ghost {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  border: 1px solid #44685e;
+  background-color: #5f60b0;
+}
+.grass {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  border: 1px solid #44685e;
+  background-color: #6bc237;
+}
+.ground {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  border: 1px solid #44685e;
+  background-color: #ceab59;
+}
+.ice {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  border: 1px solid #44685e;
+  background-color: #6fd0fb;
+}
+.normal {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  border: 1px solid #44685e;
+  background-color: #c7c4bb;
+}
+.psychic {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  border: 1px solid #44685e;
+  background-color: #db3367;
+}
+.rock {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  border: 1px solid #44685e;
+  background-color: #9e833c;
+}
+.steel {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  border: 1px solid #44685e;
+  background-color: #908f9f;
+}
+.water {
+  text-transform: capitalize;
+  margin: 10px;
+  padding: 5px 8px 5px 8px;
+  display: inline-block;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -o-border-radius: 6px;
+  font-size: 13px;
+  font-family: 'helvetica neue', Helvetica, Verdana, sans-serif;
+  color: #fff;
+  border: 1px solid #44685e;
+  background-color: #2782df;
+}

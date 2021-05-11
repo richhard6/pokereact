@@ -1,0 +1,19 @@
+.header__container {
+  display: flex;
+  align-items: center;
+  border-bottom: solid 1px black;
+  justify-content: space-between;
+  padding: 1em;
+}
+
+.header__logo {
+  width: 50px;
+  height: 50px;
+}
+
+.header__input {
+  width: 20%;
+  height: 3em;
+
+  font-size: 1.2em;
+}
